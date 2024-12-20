@@ -1,0 +1,15 @@
+.c {
+    text-align: center;
+    /*background-color: blue;*/
+    width: 150px;
+    height: 150px;
+
+}
+
+#canvas {
+    width: 200px;
+    height: 200px;
+    /*background-color: blue;*/
+    top:0;
+    left: 10px;
+}
